@@ -1,6 +1,6 @@
 # A denoising baseline implementation of a residual dense network trained on CIFAR-100 with added Gaussian noise
 
-## Model ([Paper](https://arxiv.org/pdf/1812.10477.pdf))
+## Model ([Paper](https://arxiv.org/pdf/1812.10477.pdf) | [Demo](./demo.ipynb))
 
 ### Residual dense block
 
